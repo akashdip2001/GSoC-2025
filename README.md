@@ -1,4 +1,7 @@
-![Screenshot (248)](https://github.com/user-attachments/assets/94bb6b07-2d3e-4182-b19d-cf6a30800582)# GSoC-2025
+# GSoC-2025
+
+![Screenshot_29-3-2025_182129_summerofcode withgoogle com](https://github.com/user-attachments/assets/bbbe6ab8-f646-4bba-af43-b1068f56ca01)
+</br>
 
 [![Screenshot (77)](https://github.com/user-attachments/assets/bb21909f-c8f8-403b-a872-0c8311f2f1b1)](https://www.gsocorganizations.dev/)
 ![Screenshot (81)](https://github.com/user-attachments/assets/d9ad1864-9975-48db-a39e-1af0cc8e8a9b)
