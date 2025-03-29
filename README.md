@@ -67,7 +67,7 @@
 
 ---
 
-Based on your background in **mechanical engineering, IoT, microcontrollers, cloud technology, security (DevOps/DevSecOps), and physics/mathematics**, here are the best GSoC 2025 projects from CERN that align with your skills:  
+Based on your background in **mechanical engineering, IoT, microcontrollers, cloud technology, security (DevOps/DevSecOps), and physics/mathematics**, here are the best GSoC 2025 projects from CERN that align with your skills: [Web Site](https://hepsoftwarefoundation.org/gsoc/2025/summary.html)
 
 ### **Top Project Recommendations**  
 1. **CernVM-FS: Evaluate Distribution of ML model files on CVMFS**  
@@ -88,7 +88,7 @@ Based on your background in **mechanical engineering, IoT, microcontrollers, clo
 6. **SMARTHEP: Estimating the energy cost of ML scientific software**  
    - **Why?** If you're interested in **cloud cost optimization (FinOps)**, this project estimates the **energy cost of ML workloads**, which is useful in DevOps and cloud resource management.  
 ---
-7. ✅ **BEAD: Background Enrichment augmented Anomaly Detection (BEAD) for new physics searches at LHC**  
+7. ✅ **BEAD: [Background Enrichment augmented Anomaly Detection (BEAD) for new physics searches at LHC](https://hepsoftwarefoundation.org/gsoc/2025/proposal_SMARTHEP_BEAD.html)**  
    - **Why?** You have experience in **data analysis (Taguchi method, Minitab software)**. This project focuses on **anomaly detection in physics data**, which is closely related to your **IoT data analysis projects**.  
 ---
 ### **Alternative Choices (If you want to focus more on security & IoT)**  
