@@ -65,35 +65,37 @@
 
 ## using ChartGPT
 
+---
+
 Based on your background in **mechanical engineering, IoT, microcontrollers, cloud technology, security (DevOps/DevSecOps), and physics/mathematics**, here are the best GSoC 2025 projects from CERN that align with your skills:  
 
 ### **Top Project Recommendations**  
 1. **CernVM-FS: Evaluate Distribution of ML model files on CVMFS**  
    - **Why?** You have experience in **cloud computing and DevOps**. This project focuses on distributing ML models efficiently in a cloud-like environment using **CernVM-FS (CERN Virtual Machine File System)**.  
-
+---
 2. **Ganga: Incorporate a Large Language Model to assist users**  
    - **Why?** Since you are interested in **AI/ML** and DevSecOps, this project involves integrating an LLM into Ganga, a Python-based tool for managing large-scale physics workflows.  
-
+---
 3. **Clad: Enhancing LLM Training with Clad for efficient differentiation**  
    - **Why?** If you're interested in **AI/ML and performance optimization**, this project enhances training for large models using **automatic differentiation** in Clad, a tool that optimizes C++ computations.  
-
+---
 4. **CppInterOp: Implement CppInterOp API exposing memory, ownership, and thread safety information**  
    - **Why?** You have **C++ and Python** knowledge, and this project focuses on improving C++ interoperability, which is useful in **high-performance computing** and DevSecOps.  
-
+---
 5. **MCnet: MCnet/OpenData - tools and exercises for open-data exploration with MC simulations**  
    - **Why?** Since you're a **physics and mathematics lover**, this project involves **Monte Carlo simulations** for particle physics. It will allow you to work with open data and scientific computing tools.  
-
+---
 6. **SMARTHEP: Estimating the energy cost of ML scientific software**  
    - **Why?** If you're interested in **cloud cost optimization (FinOps)**, this project estimates the **energy cost of ML workloads**, which is useful in DevOps and cloud resource management.  
-
+---
 7. **BEAD: Background Enrichment augmented Anomaly Detection (BEAD) for new physics searches at LHC**  
    - **Why?** You have experience in **data analysis (Taguchi method, Minitab software)**. This project focuses on **anomaly detection in physics data**, which is closely related to your **IoT data analysis projects**.  
-
+---
 ### **Alternative Choices (If you want to focus more on security & IoT)**  
 - **Xeus-Cpp: Implementing Debugging Support** (Good for C++ debugging in scientific computing)  
 - **ROOT: RNTuple in JSROOT** (If you want to work on structured data for physics applications)  
 - **ML4EP: TMVA SOFIE - GPU Support for Machine Learning Inference** (If you're interested in **AI acceleration & DevOps**)  
-
+---
 ### **Best Strategy**  
 - **Step 1:** Pick a project that aligns with your DevOps/DevSecOps, cloud, or IoT expertise.  
 - **Step 2:** Start **learning and contributing** to the project's GitHub repo (if available).  
