@@ -145,4 +145,10 @@ Your best pick is **CernVM-FS (Cloud & DevOps)** or **SMARTHEP (FinOps & ML cost
 ### **Final Steps**  
 - **Choose a Task Idea:** Either **develop a new autoencoder model** or **test models on different datasets**.  
 - **Write a Strong Proposal:** Clearly explain how your **past experience (Minitab, IoT, Python, Cloud)** will help improve BEAD.  
-- **Reach Out to Mentors on CERN’s GSoC Discussions** (ask for guidance on starter issues).  
+- **Reach Out to Mentors on CERN’s GSoC Discussions** (ask for guidance on starter issues).
+
+---
+
+</br>
+<img src="Screenshot (12).png">
+
