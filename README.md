@@ -152,6 +152,13 @@ Your best pick is **CernVM-FS (Cloud & DevOps)** or **SMARTHEP (FinOps & ML cost
 </br>
 <img src="Screenshot (12).png">
 
+| [`proposal example`](https://github.com/heilcheng/2025-GSoC-Proposal-Selected) |
+| --- |
+
+</br>
+
+---
+
 ### May 9 2025, 00:19
 
 <img src="2025.jpg">
